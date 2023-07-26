@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samdarks
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on any frontend project
+- 👀 Full time Data geek, Part-time Front-end development
+- 🌱 On the way to perfect my portfolio. 
+- 💞️ I’m looking to collaborate on any Data and Front-end projects
 - 📫 How to reach me officialsamdarks@gmail.com
 
 <!---
